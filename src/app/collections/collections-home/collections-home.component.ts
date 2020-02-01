@@ -12,7 +12,7 @@ export class CollectionsHomeComponent implements OnInit {
     { name: 'Elyse', age: 25, job: 'Engineer' }
   ];
 
-  header = [
+  headers = [
     { key: 'name', label: 'Name' },
     { key: 'age', label: 'Age' },
     { key: 'job', label: 'Job' }
